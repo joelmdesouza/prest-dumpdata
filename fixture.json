@@ -1,0 +1,159 @@
+[
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test",
+    "fields": {
+      "id": 1,
+      "name": "prest tester"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test",
+    "fields": {
+      "id": 2,
+      "name": "tester02"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test2",
+    "fields": {
+      "name": "tester02",
+      "number": 2
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test3",
+    "fields": {
+      "id": 1,
+      "name": "prest"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test3",
+    "fields": {
+      "id": 2,
+      "name": "prest tester"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test5",
+    "fields": {
+      "celphone": "444444",
+      "id": 1,
+      "name": "prest tester"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test7",
+    "fields": {
+      "id": 1,
+      "name": "gopher",
+      "surname": "da silva"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "testarray",
+    "fields": {
+      "data": [
+        "Gohan",
+        "Goten"
+      ],
+      "id": 100
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_deleteonly_access",
+    "fields": {
+      "id": 1,
+      "name": "test01"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_group_by_table",
+    "fields": {
+      "age": 20,
+      "id": 1,
+      "name": "joao",
+      "salary": 1250
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_group_by_table",
+    "fields": {
+      "age": 19,
+      "id": 2,
+      "name": "maria",
+      "salary": 3999
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_group_by_table",
+    "fields": {
+      "age": 20,
+      "id": 3,
+      "name": "gopher",
+      "salary": 100
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_group_by_table",
+    "fields": {
+      "age": 19,
+      "id": 4,
+      "name": "guitarra humana",
+      "salary": 3998
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_list_only_id",
+    "fields": {
+      "id": 1,
+      "name": "test01"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_readonly_access",
+    "fields": {
+      "id": 1,
+      "name": "test01"
+    }
+  },
+  {
+    "database": "prest",
+    "schema": "public",
+    "table": "test_write_and_delete_access",
+    "fields": {
+      "id": 1,
+      "name": "test01"
+    }
+  }
+]

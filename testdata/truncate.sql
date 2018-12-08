@@ -1,0 +1,16 @@
+-- TRUNCATE TABLES
+TRUNCATE TABLE test;
+TRUNCATE TABLE test2;
+TRUNCATE TABLE test3;
+TRUNCATE TABLE test4;
+TRUNCATE TABLE test5;
+TRUNCATE TABLE test6;
+TRUNCATE TABLE test7;
+TRUNCATE TABLE test8;
+TRUNCATE TABLE test_readonly_access;
+TRUNCATE TABLE test_write_and_delete_access;
+TRUNCATE TABLE test_list_only_id;
+TRUNCATE TABLE test_deleteonly_access;
+TRUNCATE TABLE testarray;
+TRUNCATE TABLE test_empty_table;
+TRUNCATE TABLE test_group_by_table;
