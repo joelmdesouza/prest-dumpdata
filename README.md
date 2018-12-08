@@ -6,7 +6,9 @@
 go run main.go [action] [filename]
 ```
 Action = dumpdata OR loaddata
+
 Default action = dumpdata
+
 Default filename = fixture.json
 
 ## Examples
